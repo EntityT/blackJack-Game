@@ -6,4 +6,6 @@ Quick start:
 $ npm install
 $ npm start
 ````
+copy the link to view the game
 
+https://moonlit-marzipan-7458be.netlify.app
